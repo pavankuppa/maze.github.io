@@ -1,4 +1,4 @@
 # maze.github.io
 Maze Generator
 
-fixes wall probability
+fixes wall probability by shuffle
